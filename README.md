@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
 - userName: jiseop9083
 - 🌱 I’m currently learning **front-end, algorithm**
--
+
+# Tech Stack
 
 
-
-### my profile card
+# my profile card
 - **boj profile**
  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sinphi01)](https://solved.ac/sinphi01)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinphi01)](https://solved.ac/sinphi01)
 
  <br>
  
