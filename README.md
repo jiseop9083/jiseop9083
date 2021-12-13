@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there
 
 - userName: jiseop9083
 - 🌱 I’m currently learning **front-end, algorithm**
