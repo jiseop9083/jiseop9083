@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **front-end, algorithm**
 
 # Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 
 # my profile card
 
