@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **front-end**
 - 🏫 I'm major in **computer science**
-- 🤔 I'm interested in **web, algorithm, graphics**
+- 🤔 I'm interested in **web, blockchain**
 
 # Tech Stack
 <div align="center">
